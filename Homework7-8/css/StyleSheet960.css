@@ -306,6 +306,12 @@ input[type=radio] {
         font-family: Open Sans;
     }
 
+    .input {
+        position: absolute;
+        left: 18%;
+        margin-top: 28%;
+    }
+
     .recent_update {
         width: 430px;
         text-align: left;
@@ -639,6 +645,12 @@ input[type=radio] {
         overflow: hidden;
     }
 
+    .input {
+        position: absolute;
+        left: 18%;
+        margin-top: 35%;
+    }
+
     .recent_update {
         width: 430px;
         text-align: left;
@@ -666,7 +678,7 @@ input[type=radio] {
         font-size: 25px;
         color: rgb(237,191,255);
         font-family: "league_gothicregular";
-        margin-left: 23%;
+        margin-left: 29%;
     }
 
     .starts_here {
@@ -936,6 +948,12 @@ input[type=radio] {
         text-align: left;
         float: left;
         margin-left: -15px;
+    }
+
+    .input {
+        position: absolute;
+        left: 40%;
+        margin-top: 50%;
     }
 
     .recent_update {
@@ -1366,6 +1384,12 @@ input[type=radio] {
 
     .visib {
         visibility: collapse;
+    }
+
+    .input {
+        position: absolute;
+        left: 35%;
+        margin-top: 75%;
     }
 
     .recent_update {
