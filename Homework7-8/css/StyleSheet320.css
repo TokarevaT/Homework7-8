@@ -1,0 +1,21 @@
+﻿@media screen and (max-width: 320px) {
+    body {
+        margin: 0;
+        padding: 0;
+    }
+
+    main {
+    }
+
+    #headerId {
+        background-size: cover;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+    }
+
+    .wrapper {
+    }
+
+    footer {
+    }
+}

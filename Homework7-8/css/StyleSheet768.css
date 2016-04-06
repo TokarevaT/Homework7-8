@@ -1,0 +1,18 @@
+﻿@media screen and (max-width: 768px) {
+    body {
+        margin: 0;
+        padding: 0;
+    }
+
+    main {
+    }
+
+    #headerId {
+        background-image: url("../img/background.png");
+        background-size: cover;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+    }
+
+}
+
